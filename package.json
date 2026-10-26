@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/haimeurhind20-collab/solidity-sepolia-cicd/issues"
   },
-  "homepage": "https://github.com/haimeurhind20-collab/solidity-sepolia-cicd#readme"
+  "homepage": "https://github.com/haimeurhind20-collab/solidity-sepolia-cicd#readme",
+  "devDependencies": {
+    "hardhat": "^3.21.0"
+  }
 }
