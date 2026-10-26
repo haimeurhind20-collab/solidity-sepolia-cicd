@@ -1,6 +1,7 @@
 {
   "name": "solidity-sepolia-cicd",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "hardhat.config.js",
   "scripts": {
